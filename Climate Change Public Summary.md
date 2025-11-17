@@ -8,6 +8,13 @@ Warming has had severe impacts on marine life, with almost 80% of marine species
 
 The ENSO has indirect impacts on coral bleaching due to its effect on local climate systems. The ENSO consists of two components, El Niño and La Niña. These phases are driven by Pacific air-water interactions and have opposite effects (Yang et al. 2018). El Niño events occur when trade winds are weakened or reversed, and result in decreased precipitation in Australia (Figure 1). This increases the oceans’ sun exposure, raising SSTs (McGowan and Theobald 2017). This can cause marine heat waves over prolonged periods of time, leading to severe bleaching as seen in 2016 (McGowan and Theobald 2017; Eakin et al. 2019). In comparison, during La Niña, trade winds are strengthened, bringing more warm water towards Australia (Yang et al. 2018). This results in increased rain, cloud cover, and cyclone frequency, meaning La Niña indirectly contributes to bleaching by increasing physical damage to coral.
 
+<p align="center">
+  <img src="Public Summary Figure 1.png" 
+       alt="Time series of station and global annual temperature anomalies" 
+       width="700" 
+       style="border: 1px solid darkgrey">
+</p>
+
 <img src="Public Summary Figure 1.png" alt="Time series of station and global annual temperature anomalies" width="700" style="border: 1px solid darkgrey">
 
 *Figure 1. The ENSO cycles’ effects on Australia. El Niño results in increased sun exposure and subsequently raised SST. This causes the thermocline, which is the transition from warm surface water to cold deep water, to become shallower in the west and deeper in the east La Niña leads to increased rainfall and a higher frequency of cyclones. The thermocline becomes deeper in the west and shallower in the east (Yang et al. 2018).*
