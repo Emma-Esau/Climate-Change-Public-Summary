@@ -8,16 +8,14 @@ Warming has had severe impacts on marine life, with almost 80% of marine species
 
 The ENSO has indirect impacts on coral bleaching due to its effect on local climate systems. The ENSO consists of two components, El Niño and La Niña. These phases are driven by Pacific air-water interactions and have opposite effects (Yang et al. 2018). El Niño events occur when trade winds are weakened or reversed, and result in decreased precipitation in Australia (Figure 1). This increases the oceans’ sun exposure, raising SSTs (McGowan and Theobald 2017). This can cause marine heat waves over prolonged periods of time, leading to severe bleaching as seen in 2016 (McGowan and Theobald 2017; Eakin et al. 2019). In comparison, during La Niña, trade winds are strengthened, bringing more warm water towards Australia (Yang et al. 2018). This results in increased rain, cloud cover, and cyclone frequency, meaning La Niña indirectly contributes to bleaching by increasing physical damage to coral.
 
-<p align="center">
+<div align="center">
   <img src="Public Summary Figure 1.png" 
        alt="Time series of station and global annual temperature anomalies" 
        width="700" 
        style="border: 1px solid darkgrey">
-</p>
 
-<img src="Public Summary Figure 1.png" alt="Time series of station and global annual temperature anomalies" width="700" style="border: 1px solid darkgrey">
-
-*Figure 1. The ENSO cycles’ effects on Australia. El Niño results in increased sun exposure and subsequently raised SST. This causes the thermocline, which is the transition from warm surface water to cold deep water, to become shallower in the west and deeper in the east La Niña leads to increased rainfall and a higher frequency of cyclones. The thermocline becomes deeper in the west and shallower in the east (Yang et al. 2018).*
+  <p><em>Figure 1. The ENSO cycles’ effects on Australia. El Niño results in increased sun exposure and subsequently raised SST. This causes the thermocline, which is the transition from warm surface water to cold deep water, to become shallower in the west and deeper in the east. La Niña leads to increased rainfall and a higher frequency of cyclones. The thermocline becomes deeper in the west and shallower in the east (Yang et al. 2018).</em></p>
+</div>
 
 ### Changes in the El Niño-Southern Oscillation
 
@@ -27,10 +25,14 @@ As atmospheric conditions continue to warm around the equator it is expected tha
 
 Coral reefs support approximately 25% of marine species, and the GBR specifically is home to hundreds of coral, fish, and other species (Plaisance et al. 2011). Coral bleaching leaves the reef prone to internal erosion and breakage from increasingly severe storms (Hutchings et al. 2013). This habitat loss causes altered food webs as prey availability is reduced. Reef erosion also exposes seagrass and mangroves to erosion, which are key habitats for green turtles (Figure 2) (Cullen-Unsworth and Unsworth 2018). 
 
+<div align="center">
+  <img src="Public Summary Figure 2.png" 
+       alt="Effects of El Niño and La Niña on coral reefs" 
+       width="700" 
+       style="border: 1px solid darkgrey">
 
-<img src="Public Summary Figure 2.png" alt="Time series of station and global annual temperature anomalies" width="700" style="border: 1px solid darkgrey">
-
-*Figure 2. El Niño’s warmer water, clearer conditions, and weaker currents increase coral thermal stress, which reduces nutrient availability and, in turn, plankton productivity and fish recruitment. La Niña’s cooler water, intense rainfall, strong storms and stronger currents cause physical coral and seagrass damage. This physical damage to reefs reduces nursery habitats and shifts species distribution as well as physical ecosystem structure. Predators, including seabirds, are declining as less food is available (Keller et al. 2009; Woodworth et al. 2021).*
+  <p><em>Figure 2. El Niño’s warmer water, clearer conditions, and weaker currents increase coral thermal stress, which reduces nutrient availability and, in turn, plankton productivity and fish recruitment. La Niña’s cooler water, intense rainfall, strong storms and stronger currents cause physical coral and seagrass damage. This physical damage to reefs reduces nursery habitats and shifts species distribution as well as physical ecosystem structure. Predators, including seabirds, are declining as less food is available (Keller et al. 2009; Woodworth et al. 2021).</em></p>
+</div>
 
 The GBR is vital for Australians, generating $5.9 billion CAD annually while employing 64,000 people (Australian Government Great Barrier Reef Marine Park Authority 2025a). Additionally, Indigenous Australians, Torres Strait Island peoples, rely on the reef for food and spiritual purposes (Australian Government Great Barrier Reef Marine Park Authority 2025b). Beyond the GBR, it is estimated that 500 million people rely on the ocean as a primary food source (National Oceanic and Atmospheric Administration 2025). As ocean temperatures will continue to increase and ENSO events become more frequent these industries, cultures, and diverse ecological ecosystems will face irreversible impacts.
 
