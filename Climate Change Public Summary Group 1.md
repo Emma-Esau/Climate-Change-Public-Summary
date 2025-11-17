@@ -9,7 +9,7 @@ Warming has had severe impacts on marine life, with almost 80% of marine species
 The ENSO has indirect impacts on coral bleaching due to its effect on local climate systems. The ENSO consists of two components, El Niño and La Niña. These phases are driven by Pacific air-water interactions and have opposite effects (Yang et al. 2018). El Niño events occur when trade winds are weakened or reversed, and result in decreased precipitation in Australia (Figure 1). This increases the oceans’ sun exposure, raising SSTs (McGowan and Theobald 2017). This can cause marine heat waves over prolonged periods of time, leading to severe bleaching as seen in 2016 (McGowan and Theobald 2017; Eakin et al. 2019). In comparison, during La Niña, trade winds are strengthened, bringing more warm water towards Australia (Yang et al. 2018). This results in increased rain, cloud cover, and cyclone frequency, meaning La Niña indirectly contributes to bleaching by increasing physical damage to coral.
 
 <div align="center">
-  <img src="Public Summary Figure 1.png" 
+  <img src="Public Summary Figure 1 Group 1.png" 
        alt="Time series of station and global annual temperature anomalies" 
        width="700" 
        style="border: 1px solid darkgrey">
@@ -26,7 +26,7 @@ As atmospheric conditions continue to warm around the equator it is expected tha
 Coral reefs support approximately 25% of marine species, and the GBR specifically is home to hundreds of coral, fish, and other species (Plaisance et al. 2011). Coral bleaching leaves the reef prone to internal erosion and breakage from increasingly severe storms (Hutchings et al. 2013). This habitat loss causes altered food webs as prey availability is reduced. Reef erosion also exposes seagrass and mangroves to erosion, which are key habitats for green turtles (Figure 2) (Cullen-Unsworth and Unsworth 2018). 
 
 <div align="center">
-  <img src="Public Summary Figure 2.png" 
+  <img src="Public Summary Figure 2 Group 1.png" 
        alt="Effects of El Niño and La Niña on coral reefs" 
        width="700" 
        style="border: 1px solid darkgrey">
